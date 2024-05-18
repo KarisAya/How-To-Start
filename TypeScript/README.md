@@ -30,7 +30,7 @@ tsc --init
 
 创建 webpack.config.js 并进行一些配置
 
-并根据配置写模板html
+并根据配置写模板 html
 
 ```html
 <！DOCTYPE html>
@@ -51,3 +51,5 @@ npm run build
 ```bash
 npm start
 ```
+
+完成
